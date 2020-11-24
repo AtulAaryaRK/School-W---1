@@ -1,0 +1,31 @@
+.line {
+    height: 6px;
+    background-color: yellowgreen;
+    width: 130px;
+    margin: 8px auto;
+}
+
+#gf {
+    color: coral;
+    text-align: center;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+img {
+    top: 9000;
+}
+
+87 {
+    margin-bottom: 90px;
+}
